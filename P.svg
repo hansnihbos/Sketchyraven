@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.07 39.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: url(#radial-gradient);
+        stroke-width: 5px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        opacity: .8;
+      }
+
+      .cls-3 {
+        stroke: #141f2d;
+        stroke-width: 8px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-1" d="M5.82,3.38c11.26-4.31,27.95-4.7,29.11,0l1.16,4.7,11.64,3.92,2.33,7.84L5.82,39.05l-5.82-4.81"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="118.58" y1="33.78" x2="118.58" y2="-99.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3281bc"/>
+      <stop offset=".12" stop-color="#2c6b9b"/>
+      <stop offset=".29" stop-color="#255377"/>
+      <stop offset=".46" stop-color="#20405a"/>
+      <stop offset=".63" stop-color="#1c3245"/>
+      <stop offset=".8" stop-color="#1a2a39"/>
+      <stop offset=".96" stop-color="#1a2835"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="118.58" cy="-32.73" fx="118.58" fy="-32.73" r="100.99" gradientUnits="userSpaceOnUse">
+      <stop offset=".68" stop-color="#ff73bc"/>
+      <stop offset=".97" stop-color="#e73a80"/>
+    </radialGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-6">
+      <g>
+        <g class="cls-5">
+          <path class="cls-4" d="M118.58-99.23C46.41-99.23-3.97-60.38-3.97-24.36-3.97-13.68,2.08-4.76,12.98,2.35l-7.49,29.15c-.37,1.47,1.11,2.73,2.5,2.13l40.73-17.56c19.32,4.38,43.08,6.62,69.86,6.62,72.17,0,122.55-16.22,122.55-47.04,0-38.47-50.38-74.87-122.55-74.87Z"/>
+        </g>
+        <path class="cls-3" d="M118.58-99.23C46.41-99.23-3.97-60.38-3.97-24.36-3.97-13.68,2.08-4.76,12.98,2.35l-7.49,29.15c-.37,1.47,1.11,2.73,2.5,2.13l40.73-17.56c19.32,4.38,43.08,6.62,69.86,6.62,72.17,0,122.55-16.22,122.55-47.04,0-38.47-50.38-74.87-122.55-74.87Z"/>
+        <path class="cls-2" d="M118.58-99.23C46.41-99.23-3.97-60.38-3.97-24.36-3.97-13.68,2.08-4.76,12.98,2.35l-7.49,29.15c-.37,1.47,1.11,2.73,2.5,2.13l40.73-17.56c19.32,4.38,43.08,6.62,69.86,6.62,72.17,0,122.55-16.22,122.55-47.04,0-38.47-50.38-74.87-122.55-74.87Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
